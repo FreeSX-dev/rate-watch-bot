@@ -1,7 +1,0 @@
-[
-  "tests/test_alerts.py::test_already_triggered_never_fires_again",
-  "tests/test_alerts.py::test_mark_triggered_removes_from_pending",
-  "tests/test_alerts.py::test_should_trigger_above",
-  "tests/test_alerts.py::test_should_trigger_below",
-  "tests/test_alerts.py::test_store_persists_and_reloads"
-]
